@@ -22,7 +22,7 @@ while true do
 
     --Error checking for the second number
     if not num2 then 
-        print ("Hey! thats no good!!")
+        print ("Hey! thats no good!")
     goto continue
 end
 
