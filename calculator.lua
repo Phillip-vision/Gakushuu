@@ -56,4 +56,4 @@ elseif operator == "-" then
     ::continue:: -- Label for restarting the loop
 end
 
-print ("See ya later alligator")
+print ("See ya later alligator!")
